@@ -12,6 +12,8 @@ _任意の成果物のmdファイル_ をslackに投稿する
 | --- | --- |
 | @bot _Requiments_ を見せて |  git pull origin master |  
 
+**編集した差分はGitHubのプルリクエストなどで確認できます**
+
 
 ## Issue 作成コマンド  
 
