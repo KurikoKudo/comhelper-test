@@ -10,7 +10,7 @@ _任意の成果物のmdファイル_ をslackに投稿する
 
 | slackbot への指示 | bot によるコマンド発行  |
 | --- | --- |
-| @bot _Requiments_ を見せて |  git pull origin master |
+| @bot _Requiments_ を見せて |  git pull origin master |  
 
 
 ## Issue 作成コマンド  
